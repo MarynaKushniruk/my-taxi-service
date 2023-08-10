@@ -11,8 +11,5 @@
     Please enter your password<input type="password" name="password" required>
     <button type="submit">Login</button>
 </form>
-<div class="register-link">
-    <a href="${pageContext.requst.contexPath}/drivers/add">Register</a>
-</div>
 </body>
 </html>
